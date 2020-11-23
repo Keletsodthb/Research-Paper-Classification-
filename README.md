@@ -1,5 +1,4 @@
-# Research Paper Classification
-Classification of text 
+# Research Paper Classification 
 
 This project is intended to be a walkthrough on the development of a machine learning project **from end to end**. It covers the creation of a model which allows one to view the main research field discussed in an article.
 
