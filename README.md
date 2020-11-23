@@ -13,3 +13,5 @@ The project consists of the following steps:
 
 To enable the code to work, please create an empty folder called Pickles in the Feature Engineering folder, also create an empty folder called Models in in the Model Training folder.
 These folders save the data produced as you run the scripts contained in the respective folders. 
+
+I've included a brief presentation of the project, which does'nt go into too much technical detail, but rather gives an outline of the data and processes used.  
